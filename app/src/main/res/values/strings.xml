@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">fireBaseLemas</string>
+    <string name="subir_foto">subir foto</string>
+    <string name="eliminar_foto">eliminar foto</string>
+    <string name="nombre">nombre</string>
+    <string name="edad">edad</string>
+    <string name="color">color</string>
+    <string name="raza">raza</string>
+    <string name="guardar">Guardar</string>
+</resources>
